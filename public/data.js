@@ -16877,6 +16877,9 @@ var heatmapData = [
   new google.maps.LatLng(47.86362, -122.28404),
   new google.maps.LatLng(34.4241, -119.70576),
   new google.maps.LatLng(42.27979, -87.88258),
+  new google.maps.LatLng(40.70617, -74.0057),
+  new google.maps.LatLng(40.68622, -73.99099),
+  new google.maps.LatLng(40.70269, -73.9909),
 ]
 
 export default heatmapData
